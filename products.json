@@ -1,0 +1,151 @@
+[
+  {
+    "id": 1,
+    "name": "Dell G15-5520",
+    "category": "laptop",
+    "color": "black",
+    "oldprice": 36870  ,
+    "price": 36270 ,
+    "image": "/public/images/1.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Lenovo V15",
+    "category": "laptop",
+    "color": "gray",
+    "oldprice": 13333  ,
+    "price": 13011 ,
+        "image": "/public/images/2.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "HP Victus",
+    "category": "laptop",
+    "color": "black",
+    "oldprice": 47699   ,
+    "price": 13011 ,
+    "image": "/public/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dell Vostro",
+    "category": "laptop",
+    "color": "black",
+    "oldprice": 29660   ,
+    "price": 29320  ,
+    "image": "/public/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "R50i",
+    "category": "earpods",
+    "color": "black",
+    "oldprice": 1699   ,
+    "price": 1300 ,
+    "image": "/public/images/5.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "R100",
+    "category": "earpods",
+    "color": "white",
+    "oldprice": 1600   ,
+    "price": 1500 ,
+    "image": "/public/images/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Life P2",
+    "category": "earpods",
+    "color": "black",
+    "oldprice": 2900  ,
+    "price": 2799 ,
+    "image": "/public/images/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Life Note E",
+    "category": "earpods",
+    "color": "black",
+    "oldprice": 2450  ,
+    "price": 2000 ,
+    "image": "/public/images/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Generic",
+    "category": "Over Ear",
+    "color": "blue",
+    "price": 900 ,
+    "image": "/public/images/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Panduo",
+    "category": "smart watch",
+    "color": "green",
+    "oldprice": 700  ,
+    "price": 500 ,
+    "image": "/public/images/10.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "Muktrics",
+    "category": "smart watch",
+    "color": "black",
+    "price": 400 ,
+    "image": "/public/images/11.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "BigPlayer",
+    "category": "smart watch",
+    "color": "brown",
+    "price": 700 ,
+    "image": "/public/images/12.jpg"
+
+  },
+  {
+    "id": 13,
+    "name": "Samsung Galaxy A34",
+    "category": "phone",
+    "color": "Awesome Silver",
+    "oldprice": 11286 ,
+    "price": 10400  ,
+    "image": "/public/images/13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "A24",
+    "category": "phone",
+    "color": "black",
+    "oldprice": 50000 ,
+    "price": 48000  ,
+    "image": "/public/images/14.jpg"
+  },
+
+  {
+    "id": 15,
+    "name": "Galaxy S22",
+    "category": "phone",
+    "color": "Green",
+    "oldprice": 24299 ,
+    "price": 24899  ,
+    "image": "/public/images/15.jpg"
+
+  },
+  {
+    "id": 16,
+    "name": "Galaxy S22 Ultra",
+    "category": "phone",
+    "color": "Phantom Black",
+    "oldprice": 32800  ,
+    "price": 33400  ,
+    "image": "/public/images/16.jpg"  
+  }
+]
